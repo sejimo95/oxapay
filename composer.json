@@ -1,0 +1,17 @@
+{
+    "name": "sejimo/oxapay",
+    "description": "test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sejimo\\Oxapay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SejiMO",
+            "email": "seji.jon@gmail.com"
+        }
+    ],
+    "require": {}
+}
